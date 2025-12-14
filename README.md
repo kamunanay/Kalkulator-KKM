@@ -10,7 +10,7 @@
 **Sistem Analisis Nilai Akademik dengan Kriteria Ketuntasan Minimal**  
 *Transformasi Data Nilai Menjadi Insight Berharga*
 
-[🚀 Live Demo](#) • [📖 Dokumentasi](#) • [🐛 Report Bug](#) • [💡 Request Fitur](#)
+[🚀 Live Demo](https://kalkulator-kkm.vercel.app/) • [📖 Dokumentasi](#) • [🐛 Report Bug](kadal.rigel@gmail.com) • [💡 Request Fitur](kadal.rigel@gmail.com)
 
 </div>
 
@@ -275,8 +275,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 *Dibuat dengan ❤️ untuk dunia pendidikan yang lebih baik*
 
 [![GitHub](https://img.shields.io/badge/GitHub-蕭Ga-181717?style=for-the-badge&logo=github)](https://github.com/kamunanay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge)](https://cukimai.store)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kadal.rigel@gmail.com)
 
 </div>
 
